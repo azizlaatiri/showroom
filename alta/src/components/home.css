@@ -1,0 +1,21 @@
+.navbar{
+    border-radius: 1%;
+    box-shadow: 100cap;
+    
+}
+.nav-link{
+    color: blue;
+}
+.navbar-brand{
+    color: blue;
+}
+h1{
+    color: blue;
+}
+.card-text{
+    color: blue;
+}
+nav:hover{
+    background-color: aqua;
+
+}
